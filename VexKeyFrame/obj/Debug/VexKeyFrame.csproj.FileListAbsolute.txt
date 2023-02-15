@@ -1,0 +1,13 @@
+C:\Users\Shawn Halliday\Dropbox\PC\Desktop\C#VEXgui\VexKeyFrame\bin\Debug\VexKeyFrame.exe.config
+C:\Users\Shawn Halliday\Dropbox\PC\Desktop\C#VEXgui\VexKeyFrame\bin\Debug\VexKeyFrame.exe
+C:\Users\Shawn Halliday\Dropbox\PC\Desktop\C#VEXgui\VexKeyFrame\bin\Debug\VexKeyFrame.pdb
+C:\Users\Shawn Halliday\Dropbox\PC\Desktop\C#VEXgui\VexKeyFrame\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Shawn Halliday\Dropbox\PC\Desktop\C#VEXgui\VexKeyFrame\obj\Debug\VexKeyFrame.csproj.AssemblyReference.cache
+C:\Users\Shawn Halliday\Dropbox\PC\Desktop\C#VEXgui\VexKeyFrame\obj\Debug\VexKeyFrame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shawn Halliday\Dropbox\PC\Desktop\C#VEXgui\VexKeyFrame\obj\Debug\VexKeyFrame.Form1.resources
+C:\Users\Shawn Halliday\Dropbox\PC\Desktop\C#VEXgui\VexKeyFrame\obj\Debug\VexKeyFrame.Properties.Resources.resources
+C:\Users\Shawn Halliday\Dropbox\PC\Desktop\C#VEXgui\VexKeyFrame\obj\Debug\VexKeyFrame.csproj.GenerateResource.cache
+C:\Users\Shawn Halliday\Dropbox\PC\Desktop\C#VEXgui\VexKeyFrame\obj\Debug\VexKeyFrame.csproj.CoreCompileInputs.cache
+C:\Users\Shawn Halliday\Dropbox\PC\Desktop\C#VEXgui\VexKeyFrame\obj\Debug\VexKeyFrame.csproj.CopyComplete
+C:\Users\Shawn Halliday\Dropbox\PC\Desktop\C#VEXgui\VexKeyFrame\obj\Debug\VexKeyFrame.exe
+C:\Users\Shawn Halliday\Dropbox\PC\Desktop\C#VEXgui\VexKeyFrame\obj\Debug\VexKeyFrame.pdb
